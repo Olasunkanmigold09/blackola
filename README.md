@@ -26,7 +26,6 @@ To use PHP's built-in server, run `php -S localhost:8000` from the `blackola` fo
 - `config/` - database connection settings and schema
 - `docs/` - project learning guide
 - `includes/` - authentication helpers and shared header, footer, and logout
-- `layouts/` - reusable page fragments
 - `pages/` - login, registration, task, and profile pages
 - `index.php` - entry point
 
